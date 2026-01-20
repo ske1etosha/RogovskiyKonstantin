@@ -1,42 +1,41 @@
-<h3 align="center">👋 Привет, я Костя</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=500&color=4A90E2&center=true&vCenter=true&width=500&height=50&lines=👋+Привет,+я+Костя;Инженер-программист" alt="Анимированный текст" />
+</h3>
 
 <p align="center">
-  <a href="https://t.me/ske1etosha">
-    <img src="https://cdn-icons-png.flaticon.com/48/2111/2111646.png" alt="Telegram" width="32" height="32"/>
+  <a href="https://t.me/ske1etosha" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png"
+         alt="Telegram" width="40" height="40" style="margin: 0 8px;" />
   </a>
   <a href="mailto:rog.konstantin@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/48/732/732200.png" alt="Email" width="32" height="32"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png"
+         alt="Gmail" width="40" height="40" style="margin: 0 8px;" />
   </a>
-  <a href="https://vk.com/skeletoshaa">
-    <img src="https://cdn-icons-png.flaticon.com/48/145/145813.png" alt="VK" width="32" height="32"/>
+  <a href="https://vk.com/skeletoshaa" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png"
+         alt="VK" width="40" height="40" style="margin: 0 8px;" />
+  </a>
+  <a href="https://github.com/ske1etosha" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png"
+         alt="GitHub" width="40" height="40" style="margin: 0 8px;" />
   </a>
 </p>
 
 ---
 
-Я — начинающий инженер-программист, увлечён автоматизацией и разработкой прикладных систем.
+## 🎯 **Обо мне**
 
-Моя цель — создавать удобные и практичные инструменты, которые упрощают работу людей и бизнес-процессы. Мне нравится разбирать задачи до деталей, чтобы создавать понятные и рабочие решения, и постоянно учиться новому, совершенствуя свои навыки.
-
-Вне работы я исследую новые технологии, пробую автоматизировать разные процессы и люблю проводить досуг за играми :)
-
----
-
-## 🛠 Мой стек
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET (WPF / .NET MAUI)" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MS SQL Server" width="40" height="40"/>
+<p align="justify">
+Я — начинающий инженер-программист, увлечён <b>автоматизацией</b> и разработкой прикладных систем.
 </p>
 
-**UI**: WPF, .NET MAUI
+🎯 `<b>`Моя цель `</b>` — создавать удобные и практичные инструменты, которые упрощают работу людей и бизнес-процессы.
+
+🔍 Мне нравится разбирать задачи до деталей, чтобы создавать понятные и рабочие решения, и постоянно учиться новому, совершенствуя свои навыки.
+
+🎮 Вне работы я исследую новые технологии, пробую автоматизировать разные процессы и люблю проводить досуг за играми :)
+
+---
 
 ## 🚀 Портфолио
 
@@ -85,6 +84,22 @@
   - акцент на понятный и поддерживаемый код.
 - **Ссылки**:
   [📦 Репозиторий](https://github.com/ske1etosha/SpecManager)
+
+## 🛠 Мой стек
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET (WPF / .NET MAUI)" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MS SQL Server" width="40" height="40"/>
+</p>
+
+**UI**: WPF, .NET MAUI
 
 ## 📚 Что я изучаю
 
