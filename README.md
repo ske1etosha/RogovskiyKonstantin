@@ -27,7 +27,7 @@
 
 <p align="center" style="color:#cccccc;">
   📞 <b>Телефон:</b> +7&nbsp;(924)&nbsp;012‑25‑66 &nbsp;&nbsp;•&nbsp;&nbsp;
-  ✉️ <b>Email:</b> <a href="mailto:rog.konstantin@gmail.com">rog.konstantin2001@gmail.com</a>
+  📧 <b>Email:</b> <a href="mailto:rog.konstantin@gmail.com">rog.konstantin2001@gmail.com</a>
 </p>
 
 ---
